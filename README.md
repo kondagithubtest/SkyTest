@@ -9,7 +9,7 @@
 ###  Solution Design
 
 * Developed automation scripts using WebdriverIO and mocha test frame work.
-* Created page objects to resuse increase resuability.
+* Created page objects to increase resuability.
 * Created test scripts.
 * Test scripst will be executed in synchronou mode.
 
