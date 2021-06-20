@@ -1,10 +1,10 @@
 #Prerequisites
-Java
-Node.js
-npm
-Git
-chrome  (Version 91.0.4472.106)
-Windows 10 64bit
+* Java
+* Node.js
+* npm
+* Git
+* chrome  (Version 91.0.4472.106)
+* Windows 10 64bit
 
 Checkout the project to your local computer under any folder using the following git command at command promt.
 git clone https://github.com/kondagithubtest/SkyTest.git
