@@ -14,7 +14,7 @@
 * Test scripst will be executed in synchronou mode.
 
 ### Clone repository
-Checkout the project to your local computer under any folder using the following git command at command promt.
+Checkout the project to your local computer under any folder using the following git command from command promt.
 git clone https://github.com/kondagithubtest/SkyTest.git
 
 ### Run tests locally
